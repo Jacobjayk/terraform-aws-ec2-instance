@@ -1,4 +1,3 @@
-""markdown
 # 🚀 Project 1: Deploy an EC2 Instance Using Terraform
 
 This project demonstrates how to use **Terraform** to deploy a simple EC2 instance on AWS. It is part of my DevOps Beginner Projects series.
@@ -142,5 +141,3 @@ terraform.rc
 📧 [LinkedIn](https://www.linkedin.com/in/jacobakotuah/)
 📝 [Dev.to Blog](https://dev.to/jayk)
 💻 [GitHub](https://github.com/Jacobjayk)
-
-""
