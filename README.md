@@ -1,4 +1,4 @@
-# 🚀 Project 1: Deploy an EC2 Instance Using Terraform
+# 🚀 Deploy an EC2 Instance Using Terraform
 
 This project demonstrates how to use **Terraform** to deploy a simple EC2 instance on AWS. It is part of my DevOps Beginner Projects series.
 
